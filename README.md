@@ -1,4 +1,6 @@
-## Hi there 👋
+## 💫 About Me
+
+👋 Yacine is a front end developer & UI Designer. he enjoy working on large scale User Interface Design and Front End Projects, solving complex design problems. Yacine loves teaching about the Web Platform, technologies and JavaScript.
 
 <!--
 **yacineboughalem/yacineboughalem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
