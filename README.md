@@ -25,9 +25,8 @@ Here are some ideas to get you started:
 Hi there 👋 
 
 - 👨🏼‍💻 My name is Yacine
-- - ❤️ I love Tea and Coding
-  - - 🌐 I blog about
-front end & UI Design : https://www.frontynova.com/articles
+- ❤️ I love Tea and Coding
+- 🌐 I blog about front end & UI Design : https://www.frontynova.com/articles
 - 📫 How to reach me: yacin.boughalem@gmail.com
 
 
