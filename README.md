@@ -209,9 +209,4 @@ I enjoy working on large scale User Interface Design and Front End Projects, sol
   </a>
 </p>
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=yacineboughalem&show_icons=true&locale=en&layout=compact"
-    alt="Idris Github stats"
-  />
-</div>
+
