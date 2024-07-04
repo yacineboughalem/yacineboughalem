@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<img src="https://www.frontynova.com/yacine.svg" alt="Yacine" height="300px" width="300px" />
 <h1 align="center">Hi 👋, I'm Yacine BOU-GHALEM</h1>
 <h3 align="center">
   A passionate Frontend developer | UI Designer from Morocco
