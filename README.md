@@ -17,21 +17,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <h1 align="center">Hi 👋, I'm Yacine BOU-GHALEM</h1>
-<h3 align="center">A passionate Frontend developer | UI Designer from Morocco</h3>
+<h3 align="center">
+  A passionate Frontend developer | UI Designer from Morocco
+</h3>
 
-
-Hi there 👋
-
-- 👨🏼‍💻 My name is Yacine
-- ❤️ I love Tea and Coding
-- 🌐 I blog about front end & UI Design : https://www.frontynova.com/articles
-- 📫 How to reach me: yacin.boughalem@gmail.com
-  
-
-I enjoy working on large scale User Interface Design and Front End Projects, solving complex design problems. I loves teaching about the Web Platform, technologies and JavaScript.
-
+Hi there 👋 - 👨🏼‍💻 My name is Yacine - ❤️ I love Tea and Coding - 🌐 I blog about
+front end & UI Design : https://www.frontynova.com/articles - 📫 How to reach
+me: yacin.boughalem@gmail.com I enjoy working on large scale User Interface
+Design and Front End Projects, solving complex design problems. I loves teaching
+about the Web Platform, technologies and JavaScript.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -117,19 +112,6 @@ I enjoy working on large scale User Interface Design and Front End Projects, sol
     />
   </a>
 
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -199,6 +181,19 @@ I enjoy working on large scale User Interface Design and Front End Projects, sol
       height="40"
     />
   </a>
+
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
@@ -208,5 +203,3 @@ I enjoy working on large scale User Interface Design and Front End Projects, sol
     />
   </a>
 </p>
-
-
