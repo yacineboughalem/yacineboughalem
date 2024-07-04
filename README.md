@@ -42,9 +42,9 @@ about the Web Platform, technologies and JavaScript.
   /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
       alt="bash"
@@ -68,7 +68,7 @@ about the Web Platform, technologies and JavaScript.
       width="40"
       height="40"
     />
-  </a> -->
+  </a>
 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
@@ -182,7 +182,7 @@ about the Web Platform, technologies and JavaScript.
     />
   </a>
 
-  <!-- <a
+  <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
     rel="noreferrer"
@@ -193,7 +193,7 @@ about the Web Platform, technologies and JavaScript.
       width="40"
       height="40"
     />
-  </a> -->
+  </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
@@ -202,4 +202,4 @@ about the Web Platform, technologies and JavaScript.
       height="40"
     />
   </a>
-</p>
+</p> -->
