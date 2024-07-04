@@ -22,11 +22,18 @@ Here are some ideas to get you started:
   A passionate Frontend developer | UI Designer from Morocco
 </h3>
 
-Hi there 👋 - 👨🏼‍💻 My name is Yacine - ❤️ I love Tea and Coding - 🌐 I blog about
-front end & UI Design : https://www.frontynova.com/articles - 📫 How to reach
-me: yacin.boughalem@gmail.com I enjoy working on large scale User Interface
-Design and Front End Projects, solving complex design problems. I loves teaching
-about the Web Platform, technologies and JavaScript.
+Hi there 👋 
+
+- 👨🏼‍💻 My name is Yacine
+- - ❤️ I love Tea and Coding
+  - - 🌐 I blog about
+front end & UI Design : https://www.frontynova.com/articles
+- 📫 How to reach me: yacin.boughalem@gmail.com
+
+
+I am a Frontend Developer | UI Designer with industrial experience of more than 6 years building websites and web applications. I have hands on experience in JavaScript and have professional experience working with ReactJs, Nextjs also have experience working with Ant Design, Bootstrap, MUI, etc.
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
