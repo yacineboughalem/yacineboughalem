@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <div style="text-align: center; margin: auto;display: flex;">
   <img src="https://www.frontynova.com/yacine.svg" alt="Yacine" height="300px" width="300px" align="center" style="    text-align: center; margin: auto;display: flex;" />
 </div>
-<h1 align="center">Hi 👋, I'm Yacine BOU-GHALEM</h1>
-<h3 align="center">
+<h1>Hi 👋, I'm Yacine BOU-GHALEM</h1>
+<h3>
   A passionate Frontend developer | UI Designer from Morocco
 </h3>
 
